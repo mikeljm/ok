@@ -1,0 +1,3 @@
+$ APP_NAME=cv \
+&& git clone https://github.com/tbaltrushaitis/${APP_NAME}.git \
+&& cd ${APP_NAME}
